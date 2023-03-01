@@ -1,10 +1,10 @@
 # Ansible Installation on Amazon Linux
-## Pre-requisites 
-1. VM's
+## Pre-requisites:
+Amazon Linux VM's
 
-Steps to be followed
+Steps to be followed are below:
 
-1. Update pkg manager
+1. Update pkg manager:
 ```
 sudo yum update -y
 ```
