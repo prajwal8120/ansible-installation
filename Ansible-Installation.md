@@ -2,7 +2,7 @@
 ## Pre-requisites:
 Amazon Linux VM's
 
-Steps to be followed are below:
+### Steps to be followed are below:
 
 1. Update pkg manager:
 ```
