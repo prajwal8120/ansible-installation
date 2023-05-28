@@ -1,0 +1,11 @@
+1. ansible all -m ping -i <inventory file>
+
+2. ansible all -m command -a <uptime> -i inventory_file>
+
+3. ansible all -m stat -a <path=/etc/hostname> -i inventory_file
+
+4. ansible all -m user -a <name=bob> -i inventory_file
+
+5. ansible all -m setup -i inventory_file
+
+6. ansible all -m yum -a <name=git> -i inventory_file
